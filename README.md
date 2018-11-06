@@ -1,6 +1,6 @@
 # YSAppConfigure
 
->自己YY设计的一个App环境配置模块，比较简单，供参考交流
+>✅自己YY设计的一个App环境配置模块，比较简单，供参考交流
 
 ##Contents
 * YSAppConfigure.h
@@ -12,23 +12,24 @@
 ><br>3、通过 YSAppConfigure.h 查看API，通过类方法调用
 ><br>4、通过 切换Scheme实现不同配置
 ><br>![avatar](./Snapshots/scheme.png)
->####设置不同的App名称，方便调试
->![avatar](./Snapshots/AppIcon.png)
->####输出相应环境的日志，方便开发人员确认
->![avatar](./Snapshots/logOut.png)
+><br> ✏️设置不同的App名称，方便调试
+><br> ![avatar](./Snapshots/AppIcon.png)
+><br> ✏️输出相应环境的日志，方便开发人员确认
+><br> ![avatar](./Snapshots/logOut.png)
+><br> 🎉看到这里恭喜你，可以愉快的切开发环境了
 
 ## API
-*   BaseUrl
-*   JiGuang
-*   Bugly
-*   WeChatAppID
-*   WeChatAppSecret
-*   QQAppID
-*   QQAppSecret
-*   WeiBoAppID
-*   WeiBoAppSecret
-*   currentType
-*   其他可以根据需要自定义，修改相关逻辑代码
+*   ✅BaseUrl
+*   ✅JiGuang
+*   ✅Bugly
+*   ✅WeChatAppID
+*   ✅WeChatAppSecret
+*   ✅QQAppID
+*   ✅QQAppSecret
+*   ✅WeiBoAppID
+*   ✅WeiBoAppSecret
+*   ✅currentType
+*   ✅其他可以根据需要自定义，修改相关逻辑代码
 
 ## Author
 
