@@ -1,0 +1,6 @@
+use_frameworks!
+
+target 'YSAppConfigure_Example' do
+  pod 'YSAppConfigure', :path => '../'
+  pod 'YYModel'
+end

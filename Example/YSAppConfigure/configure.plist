@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BaseUrl</key>
+	<dict>
+		<key>debug</key>
+		<string>开发地址</string>
+		<key>test</key>
+		<string>测试地址</string>
+		<key>pre</key>
+		<string>预发地址</string>
+		<key>release</key>
+		<string>生产地址</string>
+	</dict>
+	<key>JiGuang</key>
+	<dict>
+		<key>AppID</key>
+		<string>极光分享</string>
+	</dict>
+	<key>Bugly</key>
+	<dict>
+		<key>debug</key>
+		<string>开发ID</string>
+		<key>release</key>
+		<string>生产ID</string>
+	</dict>
+	<key>WeChat</key>
+	<dict>
+		<key>AppID</key>
+		<string>微信ID</string>
+		<key>AppSecret</key>
+		<string>微信Secret</string>
+	</dict>
+	<key>QQ</key>
+	<dict>
+		<key>AppID</key>
+		<string>QQID</string>
+		<key>AppSecret</key>
+		<string>QQAppSecret</string>
+	</dict>
+	<key>WeiBo</key>
+	<dict>
+		<key>AppID</key>
+		<string>WeiBoAppID</string>
+		<key>AppSecret</key>
+		<string>WeiBoAppSecret</string>
+	</dict>
+</dict>
+</plist>

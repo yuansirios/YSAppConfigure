@@ -1,0 +1,19 @@
+PODS:
+  - YSAppConfigure (0.1.0)
+  - YYModel (1.0.4)
+
+DEPENDENCIES:
+  - YSAppConfigure (from `../`)
+  - YYModel
+
+EXTERNAL SOURCES:
+  YSAppConfigure:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  YSAppConfigure: 1ad605aab0289ff90cb3e665eac27485f9c51d76
+  YYModel: 2a7fdd96aaa4b86a824e26d0c517de8928c04b30
+
+PODFILE CHECKSUM: '093cbd5b670a9446d1b10c7f1ad3932e835d9fdd'
+
+COCOAPODS: 1.2.1

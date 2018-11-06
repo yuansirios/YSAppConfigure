@@ -1,0 +1,6 @@
+framework module YSAppConfigure {
+  umbrella header "YSAppConfigure-umbrella.h"
+
+  export *
+  module * { export * }
+}
