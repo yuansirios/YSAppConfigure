@@ -39,10 +39,8 @@
 *   ✅currentType
 *   ✅其他可以根据需要自定义，修改相关逻辑代码
 
-## Author
+## 总结
 
-yuansirios, yuansir_ios@163.com
+以上均是开发过程的积累，学到哪记到哪
 
-## License
-
-YSAppConfigure is available under the MIT license. See the LICENSE file for more info.
+原创文章，转载请注明出处，谢谢！
