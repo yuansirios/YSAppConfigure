@@ -1,22 +1,30 @@
 # YSAppConfigure
 
->✅自己YY设计的一个App环境配置模块，比较简单，供参考交流
+> 自己YY设计的一个App环境配置模块，比较简单，供参考交流
 
 ## Contents
+
 * YSAppConfigure.h
 * configure.plist
 
 ## How do you use it?
->1、拖入YSAppConfigure文件夹到你的工程中
-><br>2、不需要通过任何操作，因为内部是通过load加载
-><br>3、通过 YSAppConfigure.h 查看API，通过类方法调用
-><br>4、通过 切换Scheme实现不同配置
-><br>![avatar](./Snapshots/scheme.png)
-><br> ✏️设置不同的App名称，方便调试
-><br> ![avatar](./Snapshots/AppIcon.png)
-><br> ✏️输出相应环境的日志，方便开发人员确认
-><br> ![avatar](./Snapshots/logOut.png)
-><br> 🎉看到这里恭喜你，可以愉快的切开发环境了
+
+1. 拖入YSAppConfigure文件夹到你的工程中
+2. 不需要通过任何操作，因为内部是通过load加载
+3. 通过 YSAppConfigure.h 查看API，通过类方法调用
+4. 通过 切换Scheme实现不同配置
+
+![avatar](./Snapshots/scheme.png)
+
+### 设置不同的App名称，方便调试
+
+![](./Snapshots/AppIcon.png)
+
+### 输出相应环境的日志，方便开发人员确认
+
+![](./Snapshots/logOut.png)
+
+### 🎉看到这里恭喜你，可以愉快的切开发环境了
 
 ## API
 *   ✅BaseUrl
